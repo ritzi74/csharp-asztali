@@ -3,6 +3,7 @@
 Órán megoldott gyakorlati feladatok
 
 Solution lista
+
 Gyakorlatok.sln
 - ArmstrongSzamok
 - AtlagSzamitas
