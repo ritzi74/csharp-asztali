@@ -30,3 +30,8 @@ Gyakorlatok2.sln
 - SwitchMenu
 - TombStatisztika
 
+TestSolution.slnx
+- ClassLibraryTest
+- ConsoleApp1
+- WebApplicationTest
+- WpfAppTest
