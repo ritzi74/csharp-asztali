@@ -35,3 +35,6 @@ TestSolution.slnx
 - ConsoleApp1
 - WebApplicationTest
 - WpfAppTest
+
+Gyakorlatok3.sln
+- Reszveny
