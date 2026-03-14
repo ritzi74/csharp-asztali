@@ -38,3 +38,6 @@ TestSolution.slnx
 
 Gyakorlatok3.sln
 - Reszveny
+- Dog
+- Alakzatok
+- Abstract1
